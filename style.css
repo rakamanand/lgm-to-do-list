@@ -8,20 +8,20 @@
 body{
     height: 100vh;
     width: 100%;
-    background: linear-gradient(to bottom, #06c1f0 0%, green 100%);
+    background: linear-gradient(to bottom, #0dee7e 0%, blue 100%);
 }
 
 .wrapper{
     margin: 120px auto;
     max-width: 400px;
     width: 100%;
-    background-color: #f308cc;
+    background-color: green;
     border-radius: 25px;
     padding: 20px;
 }
 
 .wrapper header{
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 60;
 }
 
@@ -36,7 +36,7 @@ body{
     outline: none;
     width: 80%;
     height: 100%;
-    border: 1px solid #CCC;
+    border: 1px solid rgb(18, 225, 236);
     font-size: 25px;
     border-radius: 9px;
     padding-left: 15px;
@@ -47,7 +47,7 @@ body{
     height: 100%;
     border: none;
     outline: none;
-    background: rgb(241, 241, 243);
+    background: rgb(62, 235, 14);
     color: rgb(7, 7, 7);
     font-size: 17px;
     cursor: pointer;
@@ -73,7 +73,7 @@ body{
     height: 35px;
     line-height: 15px;
     position: relative;
-    background: #f2f2f2;
+    background: #1d50e6;
     border-radius: 3px;
     margin-bottom: 8px;
     padding: 0 15px;
@@ -87,7 +87,7 @@ body{
     color: green;
     width: 45px;
     text-align: center;
-    background: black;
+    background: black ;
     border-radius: 0 3px 3px 0;
     cursor: pointer;
     transition: all 0.3s ease;
